@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RQ_REPORT_AREA</key>
+	<string>0xff000003</string>
+	<key>RQ_RESULT</key>
+	<string>0xff000004</string>
+	<key>RQ_RESULT_DAILY</key>
+	<string>0xff000005</string>
+	<key>RQ_STATISTIC</key>
+	<string>0xff000006</string>
+	<key>RQ_SPECIAL_STATISTIC</key>
+	<string>0xff000007</string>
+	<key>RQ_SERVICE_TIPS</key>
+	<string>0xff000008</string>
+	<key>RQ_TIPS</key>
+	<string>0xff000009</string>
+	<key>RQ_PICK_NUMBER</key>
+	<string>0xff00000a</string>
+	<key>RQ_LIST_AREA</key>
+	<string>0xff00000b</string>
+	<key>RQ_LODAY</key>
+	<string>0xff00000c</string>
+	<key>RQ_PICK_GAME_LO</key>
+	<string>0xff00000d</string>
+	<key>RQ_PICK_HISTORY</key>
+	<string>0xff00000f</string>
+	<key>RQ_BEST_PLAYERS</key>
+	<string>0xff000010</string>
+	<key>RQ_RICHEST_PLAYERS</key>
+	<string>0xff000011</string>
+	<key>RQ_FOLLOW</key>
+	<string>0xff000012</string>
+	<key>RQ_REFUSE_FOLLOW</key>
+	<string>0xff000013</string>
+	<key>RQ_DELETE_FOLLOW</key>
+	<string>0xff000014</string>
+	<key>RQ_ACCEPT_FOLLOW</key>
+	<string>0xff000015</string>
+	<key>RQ_ADVICES</key>
+	<string>0xff00000e</string>
+	<key>RQ_LIST_ADVICES</key>
+	<string>0xff0000f0</string>
+	<key>RQ_ALL_AREA</key>
+	<string>0xff0000f1</string>
+	<key>RQ_QUESTION</key>
+	<string>0xff000016</string>
+	<key>RQ_ANSWER</key>
+	<string>0xff000017</string>
+	<key>RQ_KEYCODE</key>
+	<string>0xff000018</string>
+	<key>RQ_CONFIGURATION</key>
+	<string>RQ_CONFIGURATION</string>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TuVan</key>
+	<array>
+		<string>Soi cầu</string>
+		<string>Hỏi Chuyên Gia</string>
+		<string>Địa điểm</string>
+	</array>
+	<key>ThongKe</key>
+	<array>
+		<string>T.K nhanh</string>
+		<string>T.K đặc biệt</string>
+		<string>Địa điểm</string>
+	</array>
+	<key>DoSo</key>
+	<array>
+		<string> </string>
+		<string></string>
+		<string>Địa điểm</string>
+	</array>
+	<key>SoKetQua</key>
+	<array>
+		<string>Xổ số</string>
+		<string>@ngay</string>
+		<string>Địa điểm</string>
+	</array>
+	<key>TuongThuat</key>
+	<array>
+		<string>Xổ số</string>
+		<string> </string>
+		<string>Địa điểm</string>
+	</array>
+</dict>
+</plist>
